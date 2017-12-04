@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395628516818",
+    "firebase_url": "https://moonmoney-21960.firebaseio.com",
+    "project_id": "moonmoney-21960",
+    "storage_bucket": "moonmoney-21960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395628516818:android:7f4a1d6f8702c959",
+        "android_client_info": {
+          "package_name": "kyrxstudios.moonmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395628516818-1d3chpst48tncb9084ncprhhvdr1elko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kyrxstudios.moonmoney",
+            "certificate_hash": "71670f48e033d916370a70e5ae3a738e72bedc88"
+          }
+        },
+        {
+          "client_id": "395628516818-8degqk237qecg94m38dohu72ofma493n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilX5eneCnH4H7imgs78vOfKrB2hSmm_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395628516818-8degqk237qecg94m38dohu72ofma493n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
