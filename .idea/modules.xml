@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MoonMoney.iml" filepath="$PROJECT_DIR$/MoonMoney.iml" />
+      <module fileurl="file://C:\Users\Jon\AndroidStudioProjects\MoonMoneyApp1\MoonMoney.iml" filepath="C:\Users\Jon\AndroidStudioProjects\MoonMoneyApp1\MoonMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MoonMoneyApp1.iml" filepath="$PROJECT_DIR$/.idea/MoonMoneyApp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Jon\AndroidStudioProjects\MoonMoneyApp1\app\app.iml" filepath="C:\Users\Jon\AndroidStudioProjects\MoonMoneyApp1\app\app.iml" />
     </modules>
   </component>
 </project>

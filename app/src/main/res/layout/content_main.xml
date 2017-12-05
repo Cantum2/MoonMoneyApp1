@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="kyrxstudios.moonmoney.MainActivity"
+    >
+
+    <Button
+        android:id="@+id/AdButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginEnd="138dp"
+        android:layout_marginRight="138dp"
+        android:text="@string/ad_button_text" />
+
+    <TextView
+        android:id="@+id/mainActivityDirectionClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/click_for_coins"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/coinAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainActivityDirectionClick"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="219dp"
+        android:text="Coins: 0" />
+</RelativeLayout>
