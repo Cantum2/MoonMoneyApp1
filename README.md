@@ -7,4 +7,4 @@ If you would like to contribute you can fork the project then go to android stud
 then copy and past the correct url and program work away!
 
 Happy Programming!
-Marcus Cantu
+
